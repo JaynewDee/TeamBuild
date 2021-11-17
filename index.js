@@ -1,8 +1,8 @@
 const Build = require('./lib/Build');
-const fs = require('fs');
 
-     const team = new Build()
-     team.start()
+const architect = new Build();
+
+architect.start();
 
 
 
