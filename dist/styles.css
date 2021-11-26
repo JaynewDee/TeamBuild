@@ -1,0 +1,12 @@
+body {
+     margin: auto;
+     align-items: center;
+}
+
+.employee {
+     margin: 15px 20vw;
+}
+
+h3 {
+     bottom: 2px;
+}
