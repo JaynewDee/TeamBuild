@@ -3,7 +3,7 @@
   
 
 ### Description:
-> This simple but efficient command line application allows a user to quickly generate a nicely formatted HTML page displaying important information about the user's development team.  
+> This simple but efficient command-line application allows a user to quickly generate a nicely formatted HTML page displaying important information about the user's development team.  
 
 ### Summary of basic FEATURES:
   > - Uses node.js to initiate prompts, receiving input from the user about their team members.  
@@ -13,4 +13,5 @@
   > - HTML file can be deployed and shared with team members and colleagues.
   > - Team member cards are populated with links to the Employee's email address, utilizing the user's default email program to quickly make contact with the team member.
   > - The github profile of any engineer on the team can be quickly navigated to through an included link on the engineer's team card.
-  > - Uses the chalk npm package to provide styling to command-line text.
+  > - Uses the chalk npm package to provide styling to command-line text.  
+  >> -
